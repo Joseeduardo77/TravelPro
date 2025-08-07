@@ -1,5 +1,8 @@
 import React from 'react';
 import '../styles/Home.css';
+import paris from '../assets/images/paris.jpg';
+import tokyo from '../assets/images/tokyo.jpg';
+import rio from '../assets/images/rio.jpg';
 
 function Home() {
   return (
@@ -16,17 +19,17 @@ function Home() {
         <h3>Destinos em Alta</h3>
         <div className="cards">
           <div className="card">
-            <img src="/src/assets/images/paris.jpg" alt="Paris" />
+            <img src={paris} alt="Paris" />
             <h4>Paris</h4>
             <p>Romance, cultura e gastronomia!</p>
           </div>
           <div className="card">
-            <img src="/src/assets/images/tokyo.jpg" alt="Tóquio" />
+            <img src={tokyo}alt="Tóquio" />
             <h4>Tóquio</h4>
             <p>Tecnologia e tradição lado a lado.</p>
           </div>
           <div className="card">
-            <img src="/src/assets/images/rio.jpg" alt="Rio de Janeiro" />
+            <img src={rio} alt="Rio de Janeiro" />
             <h4>Rio de Janeiro</h4>
             <p>Praia, alegria e natureza exuberante.</p>
           </div>
