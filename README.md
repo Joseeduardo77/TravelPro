@@ -1,12 +1,23 @@
-# React + Vite
+# 🌍 TravelPro – Agência de Viagens
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+*TravelPro* é uma plataforma moderna de viagens desenvolvida com *React + Vite*. O projeto simula uma agência de turismo com foco em design, usabilidade e performance.
 
-Currently, two official plugins are available:
+## ✈ Funcionalidades
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Página inicial com destaque de destinos
+- Página de destinos com imagens e descrição
+- Página de blog com artigos sobre turismo
+- Página de contato com formulário
+- Rodapé com redes sociais e informações legais
 
-## Expanding the ESLint configuration
+## 🔗 Projeto online
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+➡ *Acesse aqui*: [Link do projeto no GitHub Pages](https://joseeduardo77.github.io/TravelPro/)
+
+
+## 🚀 Tecnologias Utilizadas
+
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [React Router DOM](https://reactrouter.com/)
+- HTML5, CSS3
